@@ -1,5 +1,6 @@
 ---
 Title: "Demystifying Cryptography for Developers"
+Status: "proposal"
 Date: "I'm flexible"
 Authors:
 - "Manfred Touron"

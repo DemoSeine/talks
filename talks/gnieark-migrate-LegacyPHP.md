@@ -1,5 +1,6 @@
 ---
 Title: "Deal with very legacy PHP"
+Status: "proposal"
 Date: Proposed or Finalized Date
 Authors:
 - "Gieark"
@@ -8,6 +9,7 @@ Replay: "" # can be empty
 
 Tags:
 - Dirty code
+- PHP
 ---
 
 I will explain how I made compatible php 8 a bouze in PHP.

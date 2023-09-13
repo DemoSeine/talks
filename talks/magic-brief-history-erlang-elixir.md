@@ -1,5 +1,6 @@
 ---
 Title: "A brief history of erlang and elixir"
+Status: "proposal"
 Date: "I need some time to put things together"
 Authors:
 - "Magic"

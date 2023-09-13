@@ -1,6 +1,7 @@
 ---
 Title: "How I recruited coworkers, not dev/ops/etc..."
 Status: "proposal"
+Status: "proposal"
 Date: "I need some time to put things together"
 Authors:
 - "Magic"

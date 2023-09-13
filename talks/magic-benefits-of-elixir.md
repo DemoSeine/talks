@@ -1,5 +1,6 @@
 ---
 Title: "Benefits of using elixir for backend development - our perspective"
+Status: "proposal"
 Date: "I need some time to put things together"
 Authors:
 - "Magic"

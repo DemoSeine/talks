@@ -19,15 +19,15 @@ When creating your PR, we recommend using the following template to ensure that 
 ```
 ---
 Title: "Title of Your Talk"
-Date: Proposed or Finalized Date
+Status: "proposal" # Initial status; this will be updated post-review.
+Date: "" # Optional: specify a preferred date or any time constraints.
 Authors:
-- "Your Name"
-Slides: https://... # can be empty
-Replay: https://... # can be empty
+  - "Your Name"
+Slides: "https://..." # Optional: link to your presentation slides.
 Tags:
-- Tag1
-- Tag2
-- Tag3
+  - Tag1
+  - Tag2
+  - Tag3
 ---
 
 Summary of your talk.

@@ -1,5 +1,5 @@
 ---
-Title: "A brief history of erland and elixir"
+Title: "A brief history of erlang and elixir"
 Date: "I need some time to put things together"
 Authors:
 - "Magic"
